@@ -1,4 +1,5 @@
-# Hi i am CODER123 I am a js and py dev
+# Hi There :wave:.
+# i am CODER123 I am a js and py dev.
 
 ## What i am learning :
 Nothing
